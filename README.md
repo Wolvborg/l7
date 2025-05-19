@@ -55,7 +55,7 @@ packages/
 
 ```bash
 git clone https://github.com/Wolvborg/l7
-cd footballsphere
+cd l7
 ```
 
 2. Install dependencies:
